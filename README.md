@@ -48,6 +48,6 @@ WhereIsIt is a Lost and Found web application designed to help users report lost
 
 ## Live URL
 https://whereisit-88cd2.web.app
-![image](https://github.com/user-attachments/assets/8ef986ed-54bf-4840-aabf-3e64068e936d)
+
 
 
