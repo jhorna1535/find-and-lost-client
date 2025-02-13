@@ -3,6 +3,7 @@
 WhereIsIt is a Lost and Found web application designed to help users report lost items, browse found items, and connect with others to recover belongings. It simplifies the process of tracking and reclaiming lost items with user-friendly features and a responsive design.
 
 
+
 ## Key Features
 1. **User Authentication**:
    - Secure registration and login.
@@ -48,4 +49,5 @@ WhereIsIt is a Lost and Found web application designed to help users report lost
 ## Live URL
 https://whereisit-88cd2.web.app
 ![image](https://github.com/user-attachments/assets/8ef986ed-54bf-4840-aabf-3e64068e936d)
+
 
